@@ -16,10 +16,8 @@ public class Main {
         (R1 + R2) / S = 2;
         R1 + R2 = S * 2;
         :)
-
          */
         R2 = (S * 2) - R1;
-
         System.out.println(R2);
     }
 }
